@@ -11,4 +11,4 @@ scipy==1.12.0
 joblib==1.4.2
 torchtuples==0.2.2
 pycox==0.2.3
-torch==2.1.0 
+torch 
