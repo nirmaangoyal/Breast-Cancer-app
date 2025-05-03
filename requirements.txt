@@ -7,5 +7,4 @@ lifelines==0.28.0
 scikit-learn==1.4.0
 plotly==5.18.0
 scipy==1.12.0
-scikit-survival==0.22.1
 joblib==1.4.2 
