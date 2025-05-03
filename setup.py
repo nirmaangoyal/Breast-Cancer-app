@@ -14,5 +14,6 @@ setup(
         "scikit-learn",
         "joblib",
         "lifelines",
+        "plotly",
     ],
 ) 
