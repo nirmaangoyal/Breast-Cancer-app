@@ -3,9 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 import joblib
-import torchtuples as tt
-from pycox.models import CoxPH 
-from torchtuples.practical import MLPVanilla 
+from lifelines import CoxPHFitter
 
 
 #  cache artefacts
