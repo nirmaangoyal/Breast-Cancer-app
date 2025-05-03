@@ -15,6 +15,6 @@ setup(
         "joblib",
         "lifelines",
         "plotly",
-        "scikit-survival==0.22.1",
+        "scikit-survival==0.23.0",
     ],
 ) 
