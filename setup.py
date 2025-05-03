@@ -15,8 +15,5 @@ setup(
         "joblib",
         "lifelines",
         "plotly",
-        "torchtuples",
-        "pycox",
-        "torch",
     ],
 ) 
