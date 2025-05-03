@@ -11,7 +11,7 @@ setup(
         "numpy",
         "matplotlib",
         "seaborn",
-        "scikit-learn==1.3.2",
+        "scikit-learn==1.4.0",
         "joblib",
         "lifelines",
         "plotly",
